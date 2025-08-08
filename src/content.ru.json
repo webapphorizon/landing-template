@@ -1,0 +1,1463 @@
+{
+  "links": {
+    "logo": {
+      "src": "/images/logo/puzzle.png",
+      "alt": "Logo",
+      "link": "/",
+      "text": "Company"
+    },
+    "phone": {
+      "text": "+7 (999) 123-4567",
+      "url": "tel:+79991234567"
+    },
+    "email": {
+      "text": "info@webapphorizon.com",
+      "url": "mailto:info@webapphorizon.com"
+    },
+    "address": {
+      "text": "123317, Moscow, Presnenskaya Nab., 12, MMDC 'Moscow-City'",
+      "mapUrl": "https://maps.google.com/?q=Presnenskaya+Naberezhnaya+12+Moscow"
+    },
+    "socials": {
+      "twitterUrl": "https://twitter.com/webapphorizon",
+      "facebookUrl": "https://www.facebook.com/webapphorizon",
+      "vkUrl": "https://vk.com/webapphorizon",
+      "yandexMapsUrl": "https://yandex.com/maps/?ll=37.618423%2C55.755826&z=17",
+      "googleMapsUrl": "https://maps.google.com/?q=Presnenskaya+Naberezhnaya+12+Moscow",
+      "instagramUrl": "https://www.instagram.com/webapphorizon",
+      "linkedinUrl": "https://www.linkedin.com/company/webapphorizon",
+      "telegramUrl": "https://t.me/webapphorizon",
+      "whatsappUrl": "https://wa.me/webapphorizon",
+      "youtubeUrl": "https://www.youtube.com/webapphorizon",
+      "tiktokUrl": "https://www.tiktok.com/webapphorizon",
+      "pinterestUrl": "https://www.pinterest.com/webapphorizon",
+      "snapchatUrl": "https://www.snapchat.com/webapphorizon",
+      "vimeoUrl": "https://www.vimeo.com/webapphorizon",
+      "soundcloudUrl": "https://www.soundcloud.com/webapphorizon",
+      "spotifyUrl": "https://www.spotify.com/webapphorizon",
+      "appleMusicUrl": "https://www.applemusic.com/webapphorizon",
+      "amazonMusicUrl": "https://www.amazonmusic.com/webapphorizon",
+      "deezerUrl": "https://www.deezer.com/webapphorizon",
+      "bandcampUrl": "https://www.bandcamp.com/webapphorizon",
+      "mixcloudUrl": "https://www.mixcloud.com/webapphorizon"
+    }
+  },
+  "header": {
+    "navigation": [
+      { "text": "Home", "url": "/" },
+      { "text": "About", "url": "#about" },
+      { "text": "Services", "url": "#services" },
+      { "text": "Testimonials", "url": "#testimonials" },
+      { "text": "FAQ", "url": "#faq" },
+      { "text": "Contacts", "url": "#contacts" }
+    ],
+    "cta": { "text": "Get Started", "url": "/#contacts" }
+  },
+  "hero": {
+    "title": "Innovative Solutions for Your Business",
+    "description": "We provide comprehensive business solutions that help companies grow and reach new heights. Our expertise and professionalism are your competitive advantage in the modern world.",
+    "cta": { "text": "Start Now", "url": "/#contacts" },
+    "secondaryCta": { "text": "Learn More", "url": "/#about" },
+    "testimonialText": "Over 40,000+ business owners have already transformed their approach to customer acquisition with us...",
+    "image": {
+      "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDnR96DrTv7mOfTZSWq1sNtGuAReiVwzLynP2c",
+      "alt": "Home"
+    },
+    "gradientBadge": "Revolutionary Approach",
+    "gradientTitle": "Transform Your Business with Our Solutions",
+    "gradientDescription": "We help companies implement modern technologies, automate processes, and increase profits through customized strategies and innovative tools.",
+    "gradientImage": {
+      "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDpjYvJRdzDMoRIXu8n2PJF5gYSOvUryChZ6AW",
+      "alt": "Innovative Business Solutions"
+    },
+    "tabsBadge": "New in 2025",
+    "tabsTitle": "Unlock New Opportunities",
+    "tabsDescription": "Explore our cutting-edge solutions for every aspect of your business. From automating routine tasks to in-depth analytics, we offer a full range of tools for your growth.",
+    "tabs": [
+      {
+        "id": "feature1",
+        "title": "Analytics",
+        "description": "Gain deep insights into your business with our analytical tools.",
+        "image": {
+          "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDeYb7A08uRAkV4gQjlmxr5EiSUzeqF8BdbMYv",
+          "alt": "Analytics"
+        }
+      },
+      {
+        "id": "feature2",
+        "title": "Automation",
+        "description": "Automate routine processes and free up time for strategic tasks.",
+        "image": {
+          "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDan7xkAOFka019tyi7IlvN6rSVo3xfwmADE2T",
+          "alt": "Automation"
+        }
+      },
+      {
+        "id": "feature3",
+        "title": "Integration",
+        "description": "Unify all your systems and tools into a single ecosystem.",
+        "image": {
+          "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD7zEPZCbE9LQ0VMs5dBNACDFGycK7Sv3YnJPw",
+          "alt": "Integration"
+        }
+      }
+    ],
+    "splitBadge": "Efficiency & Speed",
+    "splitTitle": "Transform Business Processes with Our Solutions",
+    "splitDescription": "Our approach combines innovation, expertise, and a deep understanding of modern business needs. We help companies adapt to a rapidly changing world.",
+    "splitImage": {
+      "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDsl9CD8S1k3RZh9JcKn0xtINSGOEvpT4yiLAe",
+      "alt": "Business Transformation"
+    },
+    "features": [
+      "High Performance",
+      "Data Security",
+      "Cloud Solutions",
+      "CRM Integration"
+    ],
+    "cardBasedBadge": "Packaged Solutions",
+    "cardBasedTitle": "Choose the Perfect Solution for Your Business",
+    "cardBasedDescription": "We offer various service packages designed to meet the needs of companies of all sizes. Each solution can be tailored to your unique challenges.",
+    "cards": [
+      {
+        "icon": "ArrowRight",
+        "title": "Startup",
+        "description": "Ideal for young companies starting their journey and needing basic automation.",
+        "linkText": "Learn More",
+        "linkUrl": "/#services"
+      },
+      {
+        "icon": "Heart",
+        "title": "Business",
+        "description": "A comprehensive approach for growing companies, including analytics, automation, and system integration.",
+        "linkText": "Learn More",
+        "linkUrl": "/#services"
+      },
+      {
+        "icon": "CheckCircle",
+        "title": "Enterprise",
+        "description": "Full-scale solutions for large enterprises with customized settings and 24/7 support.",
+        "linkText": "Learn More",
+        "linkUrl": "/#services"
+      }
+    ],
+    "collageTitle": "Visualize Your Success",
+    "collageDescription": "Create compelling visual representations of your brand with our design and marketing tools. We help you stand out from the competition.",
+    "collageImages": [
+      {
+        "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDLFxA3eUSV4FvuNmqdszpjxc8ETB9KUJg1kPH",
+        "alt": "Modern Office"
+      },
+      {
+        "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDsWtyYYS1k3RZh9JcKn0xtINSGOEvpT4yiLAe",
+        "alt": "Conference"
+      },
+      {
+        "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDbrUMHtvFxOzW5JtZAUwc2qu3pMKT0GSlrPgR",
+        "alt": "Team"
+      },
+      {
+        "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDKiePuoBc3G74oQiAy2daJsZFMDpft5gSYmjx",
+        "alt": "Presentation"
+      }
+    ],
+    "galleryTitle": "Our Projects",
+    "galleryDescription": "Explore our portfolio of successful cases and projects delivered for clients across various industries. Each project is a unique solution to specific business challenges.",
+    "galleryImages": [
+      {
+        "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDLFxA3eUSV4FvuNmqdszpjxc8ETB9KUJg1kPH",
+        "alt": "Project 1"
+      },
+      {
+        "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDsWtyYYS1k3RZh9JcKn0xtINSGOEvpT4yiLAe",
+        "alt": "Project 2"
+      },
+      {
+        "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDbrUMHtvFxOzW5JtZAUwc2qu3pMKT0GSlrPgR",
+        "alt": "Project 3"
+      },
+      {
+        "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDKiePuoBc3G74oQiAy2daJsZFMDpft5gSYmjx",
+        "alt": "Project 4"
+      },
+      {
+        "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD4F09NookHCEIM3kgoVcGYLdTRQDJNjh6pWi1",
+        "alt": "Project 5"
+      },
+      {
+        "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDHWI1T0el4q5fpS9Z3G2xYOFJUaWyAQjuMwnT",
+        "alt": "Project 6"
+      }
+    ],
+    "reviewsTitle": "Our Clients Trust Us",
+    "reviewsDescription": "Hear what clients who have already used our services and improved their businesses say about us.",
+    "reviewsTrust": "Over 100 satisfied clients have rated our services and recommend us to their partners.",
+    "reviews": [
+      {
+        "id": "1",
+        "author": "Anna Ivanova",
+        "platform": "Google Reviews",
+        "rating": 5.0,
+        "text": "One of the best companies we’ve worked with. Professional approach to problem-solving and attention to detail."
+      },
+      {
+        "id": "2",
+        "author": "Mikhail Petrov",
+        "platform": "Trustpilot",
+        "rating": 4.8,
+        "text": "Excellent service and support. Solved all our issues in the shortest time possible. Definitely recommend!"
+      },
+      {
+        "id": "3",
+        "author": "Elena Smirnova",
+        "platform": "Facebook",
+        "rating": 4.7,
+        "text": "High-quality work delivered on time. The team is always available and ready to help with any questions."
+      },
+      {
+        "id": "4",
+        "author": "Dmitry Kozlov",
+        "platform": "Yandex",
+        "rating": 5.0,
+        "text": "Outstanding results that exceeded all our expectations. We will continue our collaboration."
+      }
+    ],
+    "avatars": {
+      "length": 7,
+      "images": [
+        "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDPM9HItJAkL4ENs8Kbu2DpHmxRAvq6jl1tTMF",
+        "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDBfGsbrm7iFdU4tY5EAnrxbD8cgPzhRQoHL0S",
+        "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD7dAxQ6bE9LQ0VMs5dBNACDFGycK7Sv3YnJPw",
+        "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDPBTUMpAkL4ENs8Kbu2DpHmxRAvq6jl1tTMFC",
+        "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDKgIRbaBc3G74oQiAy2daJsZFMDpft5gSYmjx",
+        "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD53KpnOL0jtKAdR4scw9mL75HN6YXyoUO8JbF",
+        "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD5ibtJUL0jtKAdR4scw9mL75HN6YXyoUO8JbF"
+      ],
+      "fallbacks": ["AI", "MS", "EP", "DK", "OL", "VN", "RM"],
+      "alts": [
+        "Anna Ivanova",
+        "Mikhail Smirnov",
+        "Elena Petrova",
+        "Dmitry Kozlov",
+        "Olga Lebedeva",
+        "Viktor Nikolaev",
+        "Roman Morozov"
+      ]
+    },
+    "platforms": [
+      {
+        "rating": 4.9,
+        "link": "/#contacts",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD5agJdNbL0jtKAdR4scw9mL75HN6YXyoUO8Jb",
+        "title": "Facebook",
+        "linkText": "View All Reviews"
+      },
+      {
+        "rating": 4.8,
+        "link": "/#contacts",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD9g48c9hQ8blvnW4XY2ugMLfZ05UxcEJsPme7",
+        "title": "Google",
+        "linkText": "View All Reviews"
+      },
+      {
+        "rating": 4.7,
+        "link": "/#contacts",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDPFvXkMAkL4ENs8Kbu2DpHmxRAvq6jl1tTMFC",
+        "title": "Trustpilot",
+        "linkText": "View All Reviews"
+      },
+      {
+        "rating": 4.9,
+        "link": "/#contacts",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDxyKRhijozWwhvBp3lM84s0krVP9bdiAKaeOj",
+        "title": "Capterra",
+        "linkText": "View All Reviews"
+      }
+    ]
+  },
+  "advantages": {
+    "title": "Why Choose Us",
+    "description": "We deliver exceptional results through our comprehensive business solutions.",
+    "cards": [
+      {
+        "title": "Rapid Deployment",
+        "description": "Swift implementation of solutions with minimal disruption to your business operations.",
+        "icon": "Zap",
+        "iconColor": "blue-400"
+      },
+      {
+        "title": "Data Analytics",
+        "description": "Transform data into actionable insights with our powerful analytical tools.",
+        "icon": "BarChart",
+        "iconColor": "orange-400"
+      },
+      {
+        "title": "24/7 Support",
+        "description": "Our support team is available round-the-clock to assist with any questions.",
+        "icon": "HeadphonesIcon",
+        "iconColor": "rose-400"
+      },
+      {
+        "title": "Security",
+        "description": "Advanced security measures to protect your data and privacy.",
+        "icon": "Shield",
+        "iconColor": "green-400"
+      }
+    ]
+  },
+  "about": {
+    "title": "About Our Company",
+    "description": [
+      "We are a team of professionals committed to innovation and excellence in every project. Our expertise and knowledge enable us to deliver solutions that truly work.",
+      "Since our founding, we have helped hundreds of companies transform their businesses and achieve impressive results. Our approach is based on a deep understanding of client needs and modern technological trends."
+    ],
+    "image": {
+      "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDsl9CD8S1k3RZh9JcKn0xtINSGOEvpT4yiLAe",
+      "alt": "About Us"
+    },
+    "statistics": [
+      { "title": "100+", "description": "Satisfied Clients" },
+      { "title": "98%", "description": "Satisfaction Rate" },
+      { "title": "12+", "description": "Years of Experience" },
+      { "title": "50+", "description": "Specialists" }
+    ],
+    "quiz": {
+      "title": "Take the Quiz to Find the Right Services for You",
+      "description": "Answer a few questions, and we’ll recommend the best solution for your business.",
+      "startButtonText": "Start Quiz",
+      "nextButtonText": "Next",
+      "prevButtonText": "Back",
+      "resultButtonText": "Get Results",
+      "resetButtonText": "Take Again",
+      "questions": [
+        {
+          "id": "business_size",
+          "text": "What is the size of your business?",
+          "options": [
+            { "id": "small", "text": "Small Business (up to 50 employees)" },
+            { "id": "medium", "text": "Medium Business (50-250 employees)" },
+            { "id": "large", "text": "Large Business (over 250 employees)" }
+          ]
+        },
+        {
+          "id": "main_goal",
+          "text": "What is your primary goal right now?",
+          "options": [
+            { "id": "growth", "text": "Business Growth and Scaling" },
+            {
+              "id": "optimization",
+              "text": "Process Optimization and Cost Reduction"
+            },
+            { "id": "digital", "text": "Digital Transformation" },
+            { "id": "marketing", "text": "Increasing Customer Base" }
+          ]
+        },
+        {
+          "id": "budget",
+          "text": "What is your budget for development?",
+          "options": [
+            { "id": "small", "text": "Up to 500,000 RUB" },
+            { "id": "medium", "text": "500,000 - 2M RUB" },
+            { "id": "large", "text": "Over 2M RUB" }
+          ]
+        },
+        {
+          "id": "timeline",
+          "text": "What is your timeline for project implementation?",
+          "options": [
+            { "id": "urgent", "text": "Urgent (within 1 month)" },
+            { "id": "normal", "text": "Medium Priority (1-3 months)" },
+            { "id": "longterm", "text": "Long-Term Project (over 3 months)" }
+          ]
+        }
+      ],
+      "results": {
+        "default": {
+          "title": "Thank You for Your Responses!",
+          "description": "Our specialists will prepare a personalized offer for you. Please provide your contact details, and we’ll reach out soon.",
+          "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDVc5IxE9HhT2akm0S3v1y4lMgeGqBozDZrI7O",
+          "recommendedService": "Customized Solution",
+          "contactButtonText": "Contact Us",
+          "contactButtonLink": "/#contacts"
+        },
+        "consulting": {
+          "title": "Business Consulting is Right for You",
+          "description": "Our consultants will help optimize business processes and develop a growth strategy for your company.",
+          "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDqS2I2qNGp9xAwZSUPLY2sMXBc5o3hvRitFnd",
+          "recommendedService": "Business Consulting",
+          "contactButtonText": "Learn More",
+          "contactButtonLink": "/#contacts"
+        },
+        "marketing": {
+          "title": "Digital Marketing is Right for You",
+          "description": "Our marketing team will help increase brand awareness and attract new clients through digital channels.",
+          "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDTEzeKNtvWdkOg1qNn3L4op5zuZKVH7s06QXb",
+          "recommendedService": "Digital Marketing",
+          "contactButtonText": "Learn More",
+          "contactButtonLink": "/#contacts"
+        },
+        "development": {
+          "title": "Software Development is Right for You",
+          "description": "Our developers will create software solutions to automate processes and enhance your business efficiency.",
+          "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDvfoFaxdfV6EPN8BLqWb3xCR2rAp9IdgHeThG",
+          "recommendedService": "Software Development",
+          "contactButtonText": "Learn More",
+          "contactButtonLink": "/#contacts"
+        }
+      }
+    }
+  },
+  "pricing": {
+    "title": "Pricing Plans",
+    "description": "We offer various collaboration options tailored to your needs.",
+    "calculator": {
+      "title": "Cost Calculator",
+      "description": "Calculate the preliminary cost of services by selecting the desired parameters.",
+      "buttonText": "Calculate",
+      "resultTitle": "Estimated Cost:",
+      "disclaimer": "The final cost may vary and will be determined after a detailed analysis of your project.",
+      "contactUs": "Contact us for an accurate quote.",
+      "fields": {
+        "service": {
+          "label": "Service",
+          "placeholder": "Select a service",
+          "options": [
+            {
+              "value": "consulting",
+              "label": "Business Consulting",
+              "basePrice": 150000
+            },
+            {
+              "value": "marketing",
+              "label": "Digital Marketing",
+              "basePrice": 100000
+            },
+            {
+              "value": "development",
+              "label": "Software Development",
+              "basePrice": 500000
+            }
+          ]
+        },
+        "duration": {
+          "label": "Duration",
+          "placeholder": "Select duration",
+          "options": [
+            { "value": "1", "label": "1 Month", "multiplier": 1 },
+            { "value": "3", "label": "3 Months", "multiplier": 2.7 },
+            { "value": "6", "label": "6 Months", "multiplier": 5 },
+            { "value": "12", "label": "12 Months", "multiplier": 9 }
+          ]
+        },
+        "complexity": {
+          "label": "Project Complexity",
+          "placeholder": "Select complexity",
+          "options": [
+            { "value": "simple", "label": "Simple", "multiplier": 0.8 },
+            { "value": "medium", "label": "Medium", "multiplier": 1 },
+            { "value": "complex", "label": "Complex", "multiplier": 1.5 }
+          ]
+        },
+        "urgency": {
+          "label": "Urgency",
+          "placeholder": "Select urgency",
+          "options": [
+            { "value": "normal", "label": "Standard", "multiplier": 1 },
+            { "value": "high", "label": "High", "multiplier": 1.3 },
+            { "value": "urgent", "label": "Urgent", "multiplier": 1.5 }
+          ]
+        }
+      }
+    },
+    "cards": [
+      {
+        "title": "Business Consulting",
+        "description": "Comprehensive strategies to boost your online presence and attract clients.",
+        "price": "From 150,000 ₽/month",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDqS2I2qNGp9xAwZSUPLY2sMXBc5o3hvRitFnd",
+        "buttonText": "Get Started",
+        "buttonUrl": "/#contacts"
+      },
+      {
+        "title": "Digital Marketing",
+        "description": "Comprehensive marketing strategies to boost your online presence and attract clients.",
+        "price": "From 100,000 ₽/month",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDTEzeKNtvWdkOg1qNn3L4op5zuZKVH7s06QXb",
+        "buttonText": "Get Started",
+        "buttonUrl": "/#contacts"
+      },
+      {
+        "title": "Software Development",
+        "description": "Comprehensive solutions for your business’s digital transformation and process automation.",
+        "price": "From 500,000 ₽/project",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDvfoFaxdfV6EPN8BLqWb3xCR2rAp9IdgHeThG",
+        "buttonText": "Get Started",
+        "buttonUrl": "/#contacts"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "description": "Don’t take our word for it—hear what our clients have to say.",
+    "loading": "Loading reviews...",
+    "error": "Error loading reviews. Please try again later.",
+    "items": [
+      {
+        "name": "Ivan Petrov",
+        "jobTitle": "CEO",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDPM9HItJAkL4ENs8Kbu2DpHmxRAvq6jl1tTMF",
+        "testimonial": "This product completely transformed our workflow. It’s intuitive, powerful, and a pleasure to use."
+      },
+      {
+        "name": "Anna Ivanova",
+        "jobTitle": "CTO",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDBfGsbrm7iFdU4tY5EAnrxbD8cgPzhRQoHL0S",
+        "testimonial": "The performance improvements we saw after implementing this solution are impressive."
+      },
+      {
+        "name": "Maria Kozlova",
+        "jobTitle": "Product Manager",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD7dAxQ6bE9LQ0VMs5dBNACDFGycK7Sv3YnJPw",
+        "testimonial": "Our team became much more efficient after adopting this platform. Highly recommend!"
+      },
+      {
+        "name": "Dmitry Nikolaev",
+        "jobTitle": "Lead Developer",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDPBTUMpAkL4ENs8Kbu2DpHmxRAvq6jl1tTMFC",
+        "testimonial": "The integration capabilities are excellent. The system works seamlessly with all our existing tools."
+      },
+      {
+        "name": "Olga Lebedeva",
+        "jobTitle": "Marketing Director",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDKgIRbaBc3G74oQiAy2daJsZFMDpft5gSYmjx",
+        "testimonial": "The analytics features provided insights we never had before. It transformed our strategy."
+      }
+    ]
+  },
+  "partners": {
+    "title": "Our Partners",
+    "description": "We are proud to collaborate with leading companies across various industries. Together, we create innovative solutions for our clients.",
+    "items": [
+      {
+        "id": 1,
+        "name": "Microsoft",
+        "logo": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDHlzZb6sel4q5fpS9Z3G2xYOFJUaWyAQjuMwn"
+      },
+      {
+        "id": 2,
+        "name": "Google",
+        "logo": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDeYb7A08uRAkV4gQjlmxr5EiSUzeqF8BdbMYv"
+      },
+      {
+        "id": 3,
+        "name": "Amazon",
+        "logo": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDan7xkAOFka019tyi7IlvN6rSVo3xfwmADE2T"
+      },
+      {
+        "id": 4,
+        "name": "PayPal",
+        "logo": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD7zEPZCbE9LQ0VMs5dBNACDFGycK7Sv3YnJPw"
+      },
+      {
+        "id": 5,
+        "name": "Shopify",
+        "logo": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDzJEEavx7TL3KFjhDr21asZIJz6Cw4kg8VoRX"
+      },
+      {
+        "id": 6,
+        "name": "SpaceX",
+        "logo": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD8w5wjzlNalKbzIqgXsrVyULnSBQP05fiOw7v"
+      },
+      {
+        "id": 7,
+        "name": "Twitch",
+        "logo": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDlW8Ue379KvN78dXLe4HM6DIJfbZpOm0azytE"
+      },
+      {
+        "id": 8,
+        "name": "Asana",
+        "logo": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDX7VXrCMpWevFUaN6xZlmMiIyudBTPfrtwR85"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Gallery",
+    "description": "Photos from our company life: offices, events, team, and products.",
+    "emptyFilterMessage": "No images match the selected criteria.",
+    "categories": [
+      { "id": "all", "name": "All" },
+      { "id": "offices", "name": "Offices" },
+      { "id": "events", "name": "Events" },
+      { "id": "team", "name": "Team" },
+      { "id": "products", "name": "Products" }
+    ],
+    "items": [
+      {
+        "id": "1",
+        "title": "Modern Office",
+        "description": "Our main office in Moscow, designed with modern comfort requirements in mind.",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDLFxA3eUSV4FvuNmqdszpjxc8ETB9KUJg1kPH",
+        "category": "offices"
+      },
+      {
+        "id": "2",
+        "title": "Innovation Conference",
+        "description": "Annual conference featuring leading industry experts.",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDsWtyYYS1k3RZh9JcKn0xtINSGOEvpT4yiLAe",
+        "category": "events"
+      },
+      {
+        "id": "3",
+        "title": "Team Collaboration",
+        "description": "Our development team discussing new project ideas.",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDbrUMHtvFxOzW5JtZAUwc2qu3pMKT0GSlrPgR",
+        "category": "team"
+      },
+      {
+        "id": "4",
+        "title": "Product Presentation",
+        "description": "Launch of a new product at an international technology exhibition.",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDKiePuoBc3G74oQiAy2daJsZFMDpft5gSYmjx",
+        "category": "products"
+      },
+      {
+        "id": "5",
+        "title": "Workspace",
+        "description": "Ergonomic workstations for comfortable work.",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD4F09NookHCEIM3kgoVcGYLdTRQDJNjh6pWi1",
+        "category": "offices"
+      },
+      {
+        "id": "6",
+        "title": "Interface Development",
+        "description": "The process of creating the user interface for our product.",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDHWI1T0el4q5fpS9Z3G2xYOFJUaWyAQjuMwnT",
+        "category": "products"
+      },
+      {
+        "id": "7",
+        "title": "Hackathon",
+        "description": "48-hour hackathon with participation from our employees and invited specialists.",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDhShufzgo7wR3ZiehxQmTUYSb0XB5OEGtNcMa",
+        "category": "events"
+      },
+      {
+        "id": "8",
+        "title": "Support Team",
+        "description": "Our specialists are always ready to assist clients with any questions.",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDTkvegItvWdkOg1qNn3L4op5zuZKVH7s06QXb",
+        "category": "team"
+      },
+      {
+        "id": "9",
+        "title": "Mobile Application",
+        "description": "Development of the mobile version of our service for iOS and Android.",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDtw82YDHvWNLgyxqAbeQEiS4rRuFKnwMBfzXV",
+        "category": "products"
+      }
+    ]
+  },
+  "team": {
+    "title": "Our Team",
+    "description": "Meet the professionals who make our company special. Together, we create products we’re proud of.",
+    "members": [
+      {
+        "id": 1,
+        "name": "Alexander Ivanov",
+        "position": "CEO & Founder",
+        "bio": "Over 10 years of industry experience. Specialist in strategic planning.",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDpjYvJRdzDMoRIXu8n2PJF5gYSOvUryChZ6AW",
+        "social": {
+          "linkedin": "#",
+          "twitter": "#",
+          "facebook": "#",
+          "instagram": "#"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Ekaterina Smirnova",
+        "position": "CTO",
+        "bio": "Responsible for technological strategy and implementing innovative solutions.",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDYXWLYViNMPHarF4K5yX8z6nTO7uc2twJSZLU",
+        "social": {
+          "linkedin": "#",
+          "twitter": "#",
+          "facebook": "#",
+          "instagram": "#"
+        }
+      },
+      {
+        "id": 3,
+        "name": "Dmitry Petrov",
+        "position": "Lead Designer",
+        "bio": "Creates the unique visual style of the company’s products.",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDLR0DNnUSV4FvuNmqdszpjxc8ETB9KUJg1kPH",
+        "social": {
+          "linkedin": "#",
+          "twitter": "#",
+          "facebook": "#"
+        }
+      },
+      {
+        "id": 4,
+        "name": "Maria Kozlova",
+        "position": "Marketing Director",
+        "bio": "Develops and implements marketing strategies to attract clients.",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD7BVBTPbE9LQ0VMs5dBNACDFGycK7Sv3YnJPw",
+        "social": {
+          "linkedin": "#",
+          "instagram": "#"
+        }
+      }
+    ]
+  },
+  "beforeAfter": {
+    "title": "Results of Our Students",
+    "description": "Real success stories and achievements of our students before and after our courses.",
+    "labels": {
+      "before": "Before",
+      "after": "After"
+    },
+    "items": [
+      {
+        "title": "Alexander, 28 years old",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDLR0DNnUSV4FvuNmqdszpjxc8ETB9KUJg1kPH",
+        "before": "A1 Beginner",
+        "after": "B2 Upper-Intermediate",
+        "description": "In just 8 months, improved English from basic to a level enabling fluent workplace communication."
+      },
+      {
+        "title": "Maria, 35 years old",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD7BVBTPbE9LQ0VMs5dBNACDFGycK7Sv3YnJPw",
+        "before": "A2 Elementary",
+        "after": "C1 Advanced",
+        "description": "Learned the language for relocation. Now successfully works at an international company."
+      },
+      {
+        "title": "Dmitry, 42 years old",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDYXWLYViNMPHarF4K5yX8z6nTO7uc2twJSZLU",
+        "before": "B1 Intermediate",
+        "after": "C1 Advanced",
+        "description": "Improved business English in 6 months. Got a promotion thanks to confident communication with international partners."
+      },
+      {
+        "title": "Ekaterina, 19 years old",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD7BVBTPbE9LQ0VMs5dBNACDFGycK7Sv3YnJPw",
+        "before": "A1 Beginner",
+        "after": "B2 Upper-Intermediate",
+        "description": "Admitted to a foreign university after a year-long course preparing for language exams."
+      },
+      {
+        "title": "Sergey, 31 years old",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDt8dd4FXHvWNLgyxqAbeQEiS4rRuFKnwMBfzX",
+        "before": "A2 Elementary",
+        "after": "B2 Upper-Intermediate",
+        "description": "Studied the language independently for years without results. Achieved the goal in 10 months with our courses."
+      },
+      {
+        "title": "Anna, 25 years old",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDVc5IxE9HhT2akm0S3v1y4lMgeGqBozDZrI7O",
+        "before": "B1 Intermediate",
+        "after": "C2 Proficiency",
+        "description": "Became a professional translator after an advanced course and preparation for international exams."
+      }
+    ],
+    "cta": {
+      "text": "Start Learning",
+      "url": "/#contacts"
+    }
+  },
+  "steps": {
+    "title": "Work Stages",
+    "description": "We deliver exceptional results through a comprehensive approach to problem-solving.",
+    "items": [
+      {
+        "title": "Analysis and Planning",
+        "description": [
+          "In the first stage, we thoroughly analyze your business, goals, and needs. This allows us to develop an optimal growth strategy.",
+          "We define key performance indicators and create a detailed action plan covering all aspects of your business."
+        ],
+        "number": 1,
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDeGPw4K8uRAkV4gQjlmxr5EiSUzeqF8BdbMYv",
+        "reverse": false
+      },
+      {
+        "title": "Solution Development",
+        "description": [
+          "After strategy approval, we begin developing a customized solution fully aligned with your requirements.",
+          "Our team uses cutting-edge technologies and methodologies to create efficient and scalable solutions."
+        ],
+        "number": 2,
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD0ctbjqpGogSTdPjE52zpHbq3mCFiR8wUL9sG",
+        "reverse": true
+      },
+      {
+        "title": "Implementation",
+        "description": [
+          "The implementation process is carried out in stages to minimize impact on current business operations.",
+          "We ensure a smooth transition and provide training for your team to maximize the effective use of new tools."
+        ],
+        "number": 3,
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDt8dd4FXHvWNLgyxqAbeQEiS4rRuFKnwMBfzX",
+        "reverse": false
+      },
+      {
+        "title": "Support and Development",
+        "description": [
+          "After launch, we continue to support and enhance the solution, adapting it to your business’s evolving needs.",
+          "Regular analysis and optimization ensure maximum efficiency and results."
+        ],
+        "number": 4,
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDVc5IxE9HhT2akm0S3v1y4lMgeGqBozDZrI7O",
+        "reverse": true
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "description": "Answers to common questions about our services and approach.",
+    "questions": [
+      {
+        "question": "How long does implementation take?",
+        "answer": "Implementation timelines depend on project complexity and typically range from 2 to 8 weeks."
+      },
+      {
+        "question": "Do you offer customized solutions?",
+        "answer": "Yes, we develop solutions tailored to your business’s specific needs."
+      },
+      {
+        "question": "Which industries do you work with?",
+        "answer": "We work with companies across various industries, including retail, finance, manufacturing, and IT."
+      },
+      {
+        "question": "How do you measure success?",
+        "answer": "We use agreed-upon KPIs and regularly track progress against key metrics."
+      },
+      {
+        "question": "What support do you provide after implementation?",
+        "answer": "We offer 24/7 technical support and regular consultations for ongoing development."
+      }
+    ],
+    "callToAction": {
+      "text": "Didn’t find the answer to your question? Contact us directly, and we’ll be happy to help.",
+      "button": { "text": "Contact Us", "url": "/#contacts" }
+    }
+  },
+  "contacts": {
+    "title": "Contact Us",
+    "description": "Have questions or ready to start? Reach out for a free consultation.",
+    "booking": {
+      "title": "Online Booking",
+      "description": "Choose a convenient time for a consultation or meeting with our specialist.",
+      "widgetType": "yclients"
+    },
+    "form": {
+      "title": "Send a Message",
+      "description": "Fill out the form below, and we’ll get back to you soon.",
+      "fields": {
+        "name": {
+          "label": "Name",
+          "placeholder": "Your name",
+          "error": "Name must be at least 2 characters long"
+        },
+        "email": {
+          "label": "Email",
+          "placeholder": "Your email",
+          "error": "Please enter a valid email address"
+        },
+        "message": {
+          "label": "Message",
+          "placeholder": "Your message",
+          "error": "Message must be at least 10 characters long"
+        }
+      },
+      "button": {
+        "default": "Send Message",
+        "loading": "Sending..."
+      },
+      "success": "Form submitted successfully!",
+      "error": "An error occurred while submitting the form.",
+      "formcarryError": "Server error while submitting the form.",
+      "missingApiKey": "API key for form submission is not configured."
+    },
+    "beforeAfter": {
+      "title": "Results of Our Students",
+      "description": "Real success stories and achievements of our students before and after our courses.",
+      "items": [
+        {
+          "title": "Alexander, 28 years old",
+          "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDLR0DNnUSV4FvuNmqdszpjxc8ETB9KUJg1kPH",
+          "before": "A1 Beginner",
+          "after": "B2 Upper-Intermediate",
+          "description": "In just 8 months, improved English from basic to a level enabling fluent workplace communication."
+        },
+        {
+          "title": "Maria, 35 years old",
+          "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD7BVBTPbE9LQ0VMs5dBNACDFGycK7Sv3YnJPw",
+          "before": "A2 Elementary",
+          "after": "C1 Advanced",
+          "description": "Learned the language for relocation. Now successfully works at an international company."
+        },
+        {
+          "title": "Dmitry, 42 years old",
+          "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDYXWLYViNMPHarF4K5yX8z6nTO7uc2twJSZLU",
+          "before": "B1 Intermediate",
+          "after": "C1 Advanced",
+          "description": "Improved business English in 6 months. Got a promotion thanks to confident communication with international partners."
+        },
+        {
+          "title": "Ekaterina, 19 years old",
+          "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD7BVBTPbE9LQ0VMs5dBNACDFGycK7Sv3YnJPw",
+          "before": "A1 Beginner",
+          "after": "B2 Upper-Intermediate",
+          "description": "Admitted to a foreign university after a year-long course preparing for language exams."
+        },
+        {
+          "title": "Sergey, 31 years old",
+          "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDt8dd4FXHvWNLgyxqAbeQEiS4rRuFKnwMBfzX",
+          "before": "A2 Elementary",
+          "after": "B2 Upper-Intermediate",
+          "description": "Studied the language independently for years without results. Achieved the goal in 10 months with our courses."
+        },
+        {
+          "title": "Anna, 25 years old",
+          "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDVc5IxE9HhT2akm0S3v1y4lMgeGqBozDZrI7O",
+          "before": "B1 Intermediate",
+          "after": "C2 Proficiency",
+          "description": "Became a professional translator after an advanced course and preparation for international exams."
+        }
+      ],
+      "cta": {
+        "text": "Start Learning",
+        "url": "/#contacts"
+      }
+    },
+    "contactInfo": {
+      "title": "Contact Information",
+      "items": [
+        {
+          "type": "phone",
+          "label": "Phone"
+        },
+        {
+          "type": "email",
+          "label": "Email"
+        },
+        {
+          "type": "address",
+          "label": "Address"
+        }
+      ]
+    },
+    "info": {
+      "title": "Benefits of Reaching Out",
+      "items": [
+        "Quick response within 24 hours",
+        "Personalized approach to every client",
+        "Free consultation for your inquiry",
+        "Selection of the optimal solution for your needs"
+      ]
+    },
+    "mapLocation": {
+      "coordinates": [55.7495, 37.5396],
+      "zoom": 15
+    }
+  },
+  "footer": {
+    "description": "We provide innovative solutions for your business growth.",
+    "quickLinks": {
+      "title": "Quick Links",
+      "items": [
+        { "text": "Home", "url": "/" },
+        { "text": "About", "url": "/#about" },
+        { "text": "Services", "url": "/#services" },
+        { "text": "Testimonials", "url": "/#testimonials" },
+        { "text": "Pricing", "url": "/#price" },
+        { "text": "Steps", "url": "/#steps" }
+      ]
+    },
+    "services": {
+      "title": "Services",
+      "items": [
+        { "text": "Consulting", "url": "/#services" },
+        { "text": "Development", "url": "/#services" },
+        { "text": "Marketing", "url": "/#services" },
+        { "text": "Support", "url": "/#services" }
+      ]
+    },
+    "contactInfo": {
+      "title": "Contacts"
+    },
+    "newsletter": {
+      "title": "Newsletter Subscription",
+      "description": "Subscribe to our newsletter to receive the latest news and updates.",
+      "email": {
+        "label": "Email",
+        "placeholder": "Your email",
+        "error": "Please enter a valid email address"
+      },
+      "button": "Subscribe",
+      "loading": "Submitting...",
+      "success": "You’ve successfully subscribed to the newsletter!",
+      "error": "An error occurred while submitting the form.",
+      "formcarryError": "Server error while subscribing to the newsletter.",
+      "missingApiKey": "API key for subscription is not configured."
+    },
+    "copyright": "© 2025 All rights reserved",
+    "legalLinks": [
+      { "text": "Terms of Use", "url": "/terms-of-service" },
+      { "text": "Privacy Policy", "url": "/privacy-policy" },
+      { "text": "Cookie Policy", "url": "/cookie-policy" }
+    ]
+  },
+  "events": {
+    "title": "Events and Activities",
+    "description": "Educational and networking events to help you develop professional skills and expand your connections.",
+    "allEventsText": "All Events",
+    "featuredLabel": "Recommended",
+    "speakersLabel": "Speakers:",
+    "attendeesLabel": "attendees",
+    "freeLabel": "Free",
+    "registerButtonText": "Register",
+    "emptyFilterMessage": "No events match the selected criteria.",
+    "filters": {
+      "all": "All Events",
+      "upcoming": "Upcoming",
+      "past": "Past",
+      "free": "Free",
+      "paid": "Paid",
+      "online": "Online",
+      "offline": "Offline"
+    },
+    "eventTypes": {
+      "conference": "Conferences",
+      "webinar": "Webinars",
+      "workshop": "Workshops",
+      "meetup": "Meetups",
+      "hackathon": "Hackathons"
+    },
+    "items": [
+      {
+        "id": "1",
+        "title": "Modern Web Development Conference",
+        "description": "Annual conference for web developers with talks from leading industry experts.",
+        "date": "August 15, 2024",
+        "time": "10:00 - 18:00",
+        "location": "Moscow, Skolkovo Technopark",
+        "isOnline": false,
+        "type": "conference",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDsWtyYYS1k3RZh9JcKn0xtINSGOEvpT4yiLAe",
+        "speakers": [
+          {
+            "name": "Alexander Ivanov",
+            "position": "Tech Lead, Google",
+            "avatar": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDpjYvJRdzDMoRIXu8n2PJF5gYSOvUryChZ6AW"
+          },
+          {
+            "name": "Maria Petrova",
+            "position": "CTO, Startup XYZ",
+            "avatar": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDYXWLYViNMPHarF4K5yX8z6nTO7uc2twJSZLU"
+          }
+        ],
+        "attendees": 500,
+        "isFree": false,
+        "price": "from 5,000 ₽",
+        "slug": "web-development-conference-2024",
+        "isFeatured": true,
+        "isUpcoming": true
+      },
+      {
+        "id": "2",
+        "title": "Webinar: Optimizing React Applications",
+        "description": "Practical techniques for optimizing React application performance and improving user experience.",
+        "date": "July 20, 2024",
+        "time": "14:00 - 16:00",
+        "location": "Online (Zoom)",
+        "isOnline": true,
+        "type": "webinar",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDKiePuoBc3G74oQiAy2daJsZFMDpft5gSYmjx",
+        "speakers": [
+          {
+            "name": "Dmitry Sidorov",
+            "position": "Senior Frontend Developer",
+            "avatar": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDLR0DNnUSV4FvuNmqdszpjxc8ETB9KUJg1kPH"
+          }
+        ],
+        "attendees": 300,
+        "isFree": true,
+        "slug": "react-optimization-webinar",
+        "isFeatured": false,
+        "isUpcoming": true
+      },
+      {
+        "id": "3",
+        "title": "Workshop: Developing with Next.js",
+        "description": "Intensive hands-on workshop on building full-stack applications with Next.js and modern tools.",
+        "date": "August 5, 2024",
+        "time": "11:00 - 17:00",
+        "location": "St. Petersburg, Prostor Coworking",
+        "isOnline": false,
+        "type": "workshop",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD4F09NookHCEIM3kgoVcGYLdTRQDJNjh6pWi1",
+        "speakers": [
+          {
+            "name": "Olga Kozlova",
+            "position": "Solution Architect",
+            "avatar": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDYXWLYViNMPHarF4K5yX8z6nTO7uc2twJSZLU"
+          }
+        ],
+        "attendees": 50,
+        "isFree": false,
+        "price": "12,000 ₽",
+        "slug": "nextjs-workshop-2024",
+        "isFeatured": true,
+        "isUpcoming": true
+      },
+      {
+        "id": "4",
+        "title": "Meetup: Microservices Architecture",
+        "description": "Discussion of the pros and cons of microservices architecture, experience sharing, and networking.",
+        "date": "July 10, 2024",
+        "time": "19:00 - 21:30",
+        "location": "Moscow, Company Office",
+        "isOnline": false,
+        "type": "meetup",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDKiePuoBc3G74oQiAy2daJsZFMDpft5gSYmjx",
+        "speakers": [
+          {
+            "name": "Anton Smirnov",
+            "position": "DevOps Engineer",
+            "avatar": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDpjYvJRdzDMoRIXu8n2PJF5gYSOvUryChZ6AW"
+          }
+        ],
+        "attendees": 80,
+        "isFree": true,
+        "slug": "microservices-meetup",
+        "isFeatured": false,
+        "isUpcoming": true
+      },
+      {
+        "id": "5",
+        "title": "Hackathon: Building AI Solutions",
+        "description": "48-hour hackathon to develop innovative solutions using artificial intelligence and machine learning.",
+        "date": "September 25-27, 2024",
+        "time": "Starts at 10:00",
+        "location": "Kazan, IT Park",
+        "isOnline": false,
+        "type": "hackathon",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDhShufzgo7wR3ZiehxQmTUYSb0XB5OEGtNcMa",
+        "speakers": [],
+        "attendees": 200,
+        "isFree": false,
+        "price": "3,000 ₽ per team",
+        "slug": "ai-solutions-hackathon",
+        "isFeatured": true,
+        "isUpcoming": true
+      }
+    ],
+    "cta": {
+      "title": "Want to see all our events?",
+      "buttonText": "Go to Event Calendar",
+      "buttonLink": "/#contacts"
+    },
+    "newsletter": {
+      "title": "Don’t Miss New Events",
+      "description": "Subscribe to notifications about new events and be the first to know."
+    }
+  },
+  "careers": {
+    "title": "Careers at Our Company",
+    "description": "Join our team of professionals and work on exciting projects in a friendly environment.",
+    "employmentTypes": ["Full-Time", "Part-Time", "Remote Work", "Internship"],
+    "vacancies": [
+      {
+        "id": "1",
+        "title": "Frontend Developer (React)",
+        "department": "Engineering",
+        "location": "Moscow",
+        "type": "Full-Time",
+        "salary": "from 150,000 ₽",
+        "description": "Development and maintenance of user interfaces for our products using React and TypeScript.",
+        "requirements": [
+          "2+ years of commercial development experience",
+          "Deep knowledge of React and its ecosystem",
+          "Experience with TypeScript",
+          "Understanding of UI/UX principles"
+        ],
+        "featured": true,
+        "slug": ""
+      },
+      {
+        "id": "2",
+        "title": "Backend Developer (Node.js)",
+        "department": "Engineering",
+        "location": "St. Petersburg",
+        "type": "Full-Time",
+        "salary": "from 170,000 ₽",
+        "description": "Development of server-side applications, working with databases and APIs.",
+        "requirements": [
+          "3+ years of experience with Node.js",
+          "Knowledge of SQL and NoSQL databases",
+          "Experience building and maintaining REST APIs",
+          "Skills in working with microservices"
+        ],
+        "featured": true,
+        "slug": ""
+      },
+      {
+        "id": "3",
+        "title": "UI/UX Designer",
+        "department": "Engineering",
+        "location": "Remote Work",
+        "type": "Full-Time",
+        "salary": "from 130,000 ₽",
+        "description": "Creating interfaces and improving user experience for our products.",
+        "requirements": [
+          "2+ years of UI/UX design experience",
+          "Portfolio of completed projects",
+          "Knowledge of Figma, Adobe XD",
+          "Understanding of accessibility and usability principles"
+        ],
+        "featured": false,
+        "slug": ""
+      },
+      {
+        "id": "4",
+        "title": "DevOps Engineer",
+        "department": "Engineering",
+        "location": "Moscow",
+        "type": "Full-Time",
+        "salary": "from 200,000 ₽",
+        "description": "Development and maintenance of infrastructure, automation of deployment and testing processes.",
+        "requirements": [
+          "Experience with containerization (Docker, Kubernetes)",
+          "Knowledge of CI/CD tools",
+          "Experience with cloud platforms (AWS, GCP)",
+          "Automation and scripting skills"
+        ],
+        "featured": false,
+        "slug": "devops-engineer"
+      },
+      {
+        "id": "5",
+        "title": "Project Manager",
+        "department": "Engineering",
+        "location": "St. Petersburg",
+        "type": "Full-Time",
+        "salary": "from 180,000 ₽",
+        "description": "Managing development projects, coordinating teams, and communicating with clients.",
+        "requirements": [
+          "3+ years of IT project management experience",
+          "PMI, Agile, Scrum certifications (preferred)",
+          "Skills in project management systems",
+          "Ability to communicate effectively with teams and clients"
+        ],
+        "featured": false,
+        "slug": "project-manager"
+      },
+      {
+        "id": "6",
+        "title": "Developer Intern",
+        "department": "Engineering",
+        "location": "Moscow",
+        "type": "Internship",
+        "salary": "from 50,000 ₽",
+        "description": "Participation in real project development under the guidance of experienced mentors.",
+        "requirements": [
+          "Basic knowledge of JavaScript, HTML, CSS",
+          "Desire to learn and grow",
+          "Senior students of technical programs",
+          "Ability to work at least 30 hours per week"
+        ],
+        "featured": true,
+        "slug": "intern-developer"
+      }
+    ],
+    "labels": {
+      "featuredBadge": "Hot Vacancy",
+      "viewMoreButton": "Learn More",
+      "noMatchingVacanciesTitle": "Didn’t Find a Suitable Vacancy?",
+      "noMatchingVacanciesDescription": "We’re always looking for talented professionals! Send us your resume, and we’ll contact you when a suitable position opens.",
+      "sendResumeButton": "Send Resume"
+    },
+    "contactFormUrl": "/#contacts"
+  },
+  "achievements": {
+    "title": "Our Achievements",
+    "description": "The story of our growth and development. Key moments that shaped our company.",
+    "items": [
+      {
+        "id": 1,
+        "year": "2018",
+        "title": "Company Founded",
+        "description": "The beginning of our journey. A small team of enthusiasts with big plans and ideas."
+      },
+      {
+        "id": 2,
+        "year": "2019",
+        "title": "First Product Launch",
+        "description": "Release of the first version of our core product, which attracted the attention of initial clients."
+      },
+      {
+        "id": 3,
+        "year": "2020",
+        "title": "Investment Raised",
+        "description": "Successful funding round from leading venture capital funds that believed in our vision."
+      },
+      {
+        "id": 4,
+        "year": "2021",
+        "title": "Team Expansion",
+        "description": "Our team grew to 50 people, and we opened offices in three cities."
+      },
+      {
+        "id": 5,
+        "year": "2022",
+        "title": "International Expansion",
+        "description": "Started operations in the international market with initial clients in Europe and Asia."
+      },
+      {
+        "id": 6,
+        "year": "2023",
+        "title": "Innovation Award",
+        "description": "Received a prestigious industry award for innovative technologies and contributions to the industry."
+      },
+      {
+        "id": 7,
+        "year": "2024",
+        "title": "Today",
+        "description": "Over 1,000 companies worldwide use our solutions. And this is just the beginning."
+      }
+    ]
+  },
+  "comparison": {
+    "title": "Plan Comparison",
+    "description": "Choose the optimal plan for your business with the features you need.",
+    "labels": {
+      "showDetails": "Show Details",
+      "popularChoice": "Popular"
+    },
+    "plans": [
+      {
+        "id": "basic",
+        "title": "Basic",
+        "price": "€9",
+        "period": "month",
+        "description": "For small teams and startups.",
+        "buttonText": "Choose",
+        "buttonUrl": "/#contacts",
+        "popular": false
+      },
+      {
+        "id": "pro",
+        "title": "Professional",
+        "price": "€29",
+        "period": "month",
+        "description": "For growing companies and teams.",
+        "buttonText": "Choose",
+        "buttonUrl": "/#contacts",
+        "popular": true
+      },
+      {
+        "id": "enterprise",
+        "title": "Enterprise",
+        "price": "€99",
+        "period": "month",
+        "description": "For large enterprises with specific requirements.",
+        "buttonText": "Choose",
+        "buttonUrl": "/#contacts",
+        "popular": false
+      }
+    ],
+    "features": [
+      {
+        "id": "users",
+        "name": "Number of Users",
+        "values": {
+          "basic": "Up to 5",
+          "pro": "Up to 20",
+          "enterprise": "Unlimited"
+        }
+      },
+      {
+        "id": "storage",
+        "name": "Storage Capacity",
+        "values": {
+          "basic": "10 GB",
+          "pro": "100 GB",
+          "enterprise": "1 TB"
+        }
+      },
+      {
+        "id": "support",
+        "name": "Support",
+        "values": {
+          "basic": "Email",
+          "pro": "Email & Phone",
+          "enterprise": "Dedicated Manager"
+        }
+      },
+      {
+        "id": "api",
+        "name": "API Access",
+        "values": {
+          "basic": false,
+          "pro": true,
+          "enterprise": true
+        }
+      },
+      {
+        "id": "customization",
+        "name": "Interface Customization",
+        "values": {
+          "basic": false,
+          "pro": "Basic",
+          "enterprise": "Advanced"
+        }
+      },
+      {
+        "id": "analytics",
+        "name": "Advanced Analytics",
+        "values": {
+          "basic": false,
+          "pro": true,
+          "enterprise": true
+        }
+      },
+      {
+        "id": "integration",
+        "name": "Service Integrations",
+        "values": {
+          "basic": "5 integrations",
+          "pro": "15 integrations",
+          "enterprise": "Unlimited"
+        }
+      },
+      {
+        "id": "backups",
+        "name": "Automatic Backups",
+        "values": {
+          "basic": "Weekly",
+          "pro": "Daily",
+          "enterprise": "Real-Time"
+        }
+      },
+      {
+        "id": "export",
+        "name": "Data Export",
+        "values": {
+          "basic": "CSV",
+          "pro": "CSV, Excel, PDF",
+          "enterprise": "All Formats"
+        }
+      }
+    ]
+  },
+  "video": {
+    "title": "How Our Product Transforms Businesses",
+    "description": "Watch a short video about how our product helps companies automate processes and increase profits.",
+    "thumbnail": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDlvJHZPG79KvN78dXLe4HM6DIJfbZpOm0azyt",
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  }
+}
